@@ -1,7 +1,5 @@
 package baseball;
 
-import java.util.ArrayList;
-
 // 입력 숫자 유효성 검증
 public class Validator {
     public static void validate(String input) {
